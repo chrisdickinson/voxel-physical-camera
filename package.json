@@ -1,6 +1,6 @@
 {
   "name": "voxel-physical-camera",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "physical camera for voxel-engine",
   "main": "index.js",
   "scripts": {
