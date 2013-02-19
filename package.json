@@ -1,0 +1,21 @@
+{
+  "name": "voxel-physical-camera",
+  "version": "0.0.0",
+  "description": "physical camera for voxel-engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chrisdickinson/voxel-view.git"
+  },
+  "keywords": [
+    "voxel",
+    "voxeljs",
+    "camera",
+    "viewport"
+  ],
+  "author": "Chris Dickinson <chris@neversaw.us>",
+  "license": "MIT"
+}
